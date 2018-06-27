@@ -1,5 +1,7 @@
 # learn
 
+[newspaper_crawler](https://github.com/arfu2016/nlp/tree/master/nlp_models/newspaper_crawler)
+
 [List of User Agents](https://developers.whatismybrowser.com/useragents/explore/)
 
 [User Agent: Find Out Your Web Browser's UA Here](https://www.whoishostingthis.com/tools/user-agent/)
