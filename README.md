@@ -1,5 +1,7 @@
 # learn
 
+[scrapy](https://github.com/arfu2016/nlp/tree/master/nlp_models/scrapy)
+
 [newspaper_crawler](https://github.com/arfu2016/nlp/tree/master/nlp_models/newspaper_crawler)
 
 [List of User Agents](https://developers.whatismybrowser.com/useragents/explore/)
